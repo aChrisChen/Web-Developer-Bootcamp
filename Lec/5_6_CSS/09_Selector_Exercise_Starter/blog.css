@@ -1,0 +1,26 @@
+div {
+	margin: 20px 15% 0 15%;
+	border: 20px solid #bdc3c7;
+	padding: 10px;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.date {
+	color: #3498db;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #2c3e50;
+	text-transform: capitalize;
+}
+
+.first {
+	border-left: 10px solid #bdc3c7;
+	padding-left: 10px;
+
+}
