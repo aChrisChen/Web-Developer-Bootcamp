@@ -1,10 +1,7 @@
 div {
 	margin: 20px 15% 0 15%;
 	border: 20px solid #bdc3c7;
-	padding: 10px;
-}
-
-p {
+	padding: 20px;
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -12,6 +9,7 @@ p {
 	color: #3498db;
 	font-weight: 800;
 	text-transform: uppercase;
+	letter-spacing: 0.2rem;
 }
 
 h2 {
@@ -23,4 +21,11 @@ h2 {
 	border-left: 10px solid #bdc3c7;
 	padding-left: 10px;
 
+}
+
+hr {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 0.3);
 }
